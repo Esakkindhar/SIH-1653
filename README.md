@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:12-03-2025
+## Register Number:212224040085
+## Name:Esakkindhar A
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -11,16 +11,49 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 Ministry of Defence
 
 ## Idea
+**AI-Powered Interview Evaluation System**
 
+**1.Automated Interview Process**
 
+Begins with ice-breaking questions.
+Gradually moves towards technical and managerial questions.
+Ensures unbiased and structured questioning.
+
+**2.Expert & Candidate Scoring System**
+
+Validates whether the interview questions align with the candidate's expertise.
+Evaluates candidate responses based on relevance, depth, and correctness.
+Provides an overall quantifiable score for selection and ranking.
+
+**3.Natural Language Processing (NLP) & AI Integration**
+
+AI-driven analysis of questions and responses.
+NLP-based scoring for relevance and accuracy.
+
+**4.Board Room Simulation**
+
+Realistic panel-based interview experience.
+Interactive UI for experts and candidates.
+
+**5.Comprehensive Report Generation**
+
+Detailed breakdown of question relevancy, response quality, and final score.
+Insights for interviewers to refine the evaluation process.
 ## Proposed Solution / Architecture Diagram
-
+![DALL·E 2025-03-12 23 32 24 - A clean and simple architecture diagram for an AI-based interview assessment system  The diagram should include___1  __Main Center Box___ _AI Intervie](https://github.com/user-attachments/assets/6a962a70-d822-4386-9c03-59e238c8e7ce)
 
 ## Use Cases
 
+![DALL·E 2025-03-12 23 13 41 - A very simple flowchart diagram for an AI-based interview assessment system  The diagram should include___1  __Start Point___ Interview begins _2  __A](https://github.com/user-attachments/assets/18aea31e-dfd8-4fa9-a978-46326421b157)
 
 ## Technology Stack
-
+- Frontend: React.js / Angular / Vue.js
+- Backend: Python (FastAPI/Django) or Node.js (Express.js)
+- Database: PostgreSQL / MongoDB
+- AI/ML: NLP models (BERT, GPT) for relevance evaluation
+- Deployment: Docker, Kubernetes, AWS/GCP
 
 ## Dependencies
-
+- budget-₹52.2L-₹1.13Cr
+- Mapping service-12 months
+- Data collection-7 months
